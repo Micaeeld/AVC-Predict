@@ -16,7 +16,7 @@ To predict whether a patient will have a stroke or not, a logistic regression mo
 The model was evaluated using precision and the confusion matrix. The results showed that the model was 95% accurate and was able to accurately predict whether a patient will have a stroke or not.
 
 ## Conclusion
-This notebook presented a stroke prediction model using a dataset available in Kaggle. The Logistic Regression model was able to accurately predict whether a patient will have a stroke or not based on their characteristics. Stroke prediction can be useful for clinicians and healthcare professionals who want to identify patients at increased stroke risk and take preventive measures to reduce that risk.
+This notebook presented a stroke prediction model using a dataset available in Kaggle. The Light Gradient Boosting Machine model was able to accurately predict whether a patient will have a stroke or not based on their characteristics. Stroke prediction can be useful for clinicians and healthcare professionals who want to identify patients at increased stroke risk and take preventive measures to reduce that risk.
 
 ## Contribution
 Contributions are welcome! If you find any bugs or have any suggestions for improvement, please open an issue in the repository or submit a pull request.
