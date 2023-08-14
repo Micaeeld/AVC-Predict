@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Stroke Predict
 This notebook presents a stroke prediction model using a dataset available in Kaggle. The dataset contains information about a variety of patients, including characteristics such as age, gender, smoking status, medical history, and more.
 
